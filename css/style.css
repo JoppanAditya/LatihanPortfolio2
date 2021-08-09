@@ -41,6 +41,10 @@ section {
   min-height: 600px;
 }
 
+section.about {
+  min-height: 400px;
+}
+
 .pKiri,
 .pKanan {
   opacity: 0;
